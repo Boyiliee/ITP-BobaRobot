@@ -1,0 +1,41 @@
+Options:
+ * Pure milk
+ * Strawberry milk
+ * Boba milk
+
+Menu:
+Pure milk
+Material: milk
+Steps:
+0) get an empty cup and bring to the working area of the table (0.55, 0.0)
+1) pour the milk into the working cup
+2) put the working cup in the finished location
+
+Strawberry milk
+Material: strawberry jam, milk
+Steps:
+0) get an empty cup and bring to the working area of the table (0.55, 0.0)
+1) add strawberry jam into the working cup
+2) pour the milk into the working cup
+3) put the working cup in the finished location
+
+Boba milk
+Material: boba, milk
+Steps:
+0) get an empty cup and bring to the working area of the table (0.55, 0.0)
+1) add boba into the working working cup
+2) pour the milk into the working cup
+3) put the working cup in the finished location
+
+
+Available material we have now:
+* boba
+* strawberry jam
+* mango jam
+* matcha powder
+* taro
+* black tea powder
+* green tea powder
+* microwave
+* milk
+* blueberry

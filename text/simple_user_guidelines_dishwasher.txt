@@ -1,0 +1,68 @@
+Options:
+ * Wash one plate with rose flavor
+ * Wash all plates
+
+Menu:
+Wash one dirty plate with rose flavor
+Material: rose detergent
+Steps:
+0) grasp the dirty plate
+1) remove large particle from the plate
+2) open the dishwasher
+3) pull out the rack 
+4) put one plate on the third rack
+5) add rose detergent into the detergent dispenser
+6) close the dishwaster
+7) select the cycle and start dishwasher
+8) after the dishwasher cycle is complete and the dishwasher has stopped, wait a few minutes for the dishes to cool down
+9) make sure the plate is clean and dry, otherwise go into step 8)
+10) return the clean plate to the finished location
+
+Wash all dirty plates, there are 2 dirty plates
+Material: original detergent
+Steps:
+0) grasp the first dirty plate
+1) remove large particle from the plate
+2) open the dishwasher
+3) pull out the rack 
+4) put the plate on the third rack
+5) grasp the second dirty plate
+6) remove large particle from the plate
+7) put the plate on the third rack
+8) add original detergent into the detergent dispenser
+9) close the dishwaster
+10) select the cycle and start dishwasher
+11) after the dishwasher cycle is complete and the dishwasher has stopped, wait a few minutes for the dishes to cool down
+12) make sure the plate is clean and dry, otherwise go into step 8)
+13) return all clean utensils to the finished location
+
+
+Wash one dirty plates and one fork
+Material: original detergent
+Steps:
+0) grasp the dirty plate
+1) remove large particle from the plate
+2) open the dishwasher
+3) pull out the rack 
+4) put the plate on the third rack
+5) grasp the fork
+6) remove large particle from the fork
+7) put the fork on the first rack
+8) add original detergent into the detergent dispenser
+9) close the dishwaster
+10) select the cycle and start dishwasher
+11) after the dishwasher cycle is complete and the dishwasher has stopped, wait a few minutes for the dishes to cool down
+12) make sure the plate and fork is clean and dry, otherwise go into step 8)
+13) return all clean utensils to the finished location
+
+Available location we have now:
+Our dishwasher has three racks
+* first rack for forks and small kitchen utensils
+* second rack for bowl/cup
+* third rack for plate/big kitchen utensils
+
+Available material we have now:
+* rose detergent
+* original detergent
+
+

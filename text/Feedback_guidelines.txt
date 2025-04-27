@@ -1,0 +1,12 @@
+Boba Milk
+
+If there is any step:
+
+Type 1 - ask a new drink:
+Judge if this is the last step, if not the last step, then the customer could add feedback.
+
+Type 2 - interupt with the steps:
+Ask to add additional material. For example, add strawberry jam. If in the middle, we may change from `add jam` to `add double jam`.
+If in the end, we just add strawberry jam in the end. 
+
+Finally, we could hard code to add straw into the cup.

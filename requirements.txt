@@ -1,0 +1,12 @@
+# keep in alphabetical order
+huggingface_hub
+openai
+pyquaternion
+termcolor
+torch
+tyro
+zmq
+
+# other dependencies
+groundingdino @ git+https://github.com/IDEA-Research/GroundingDINO.git
+mobile_sam @ git+https://github.com/ChaoningZhang/MobileSAM.git
