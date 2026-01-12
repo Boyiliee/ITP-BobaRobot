@@ -22,3 +22,15 @@ pre-commit install
 ```
 python run.py
 ```
+
+## Citation
+If you use our work or our implementation in this repo, or find them helpful, please consider giving a citation in the following format.
+
+```bash
+@article{li2023interactive,
+  title={Interactive task planning with language models},
+  author={Li, Boyi and Wu, Philipp and Abbeel, Pieter and Malik, Jitendra},
+  journal={arXiv preprint arXiv:2310.10645},
+  year={2023}
+}
+```
